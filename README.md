@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me ⭑
 I am a developer specializing in front-end development with experience in Python. Alongside software development, I work with game development using Godot Engine, where I design gameplay systems and create original pixel art assets using Aseprite. I also have an interest in hardware and electronics. I build custom PCs and design printed circuit boards.
 
 
